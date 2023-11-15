@@ -1,0 +1,1 @@
+In this case study, we'll be analyzing what primarily informs the price of real estate in King County, Washington. This analysis is intended to educate buyers on housing costs and to provide education to improve the buying experience. 
