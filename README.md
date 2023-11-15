@@ -6,5 +6,3 @@ Perform data cleaning and exploratory analysis to provide further insights into 
 Data was provided through [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 # Tableau
 [Tableau](https://public.tableau.com/app/profile/kurt.son/viz/KingCountyFinal/Final?publish=yes)
-
-[Tableau](https://public.tableau.com/app/profile/kurt.son/viz/KurtSQL10/averagerental?publish=yes).
